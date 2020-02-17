@@ -1,29 +1,24 @@
 # checkpoint-4
 
-Checkpoint 4
+# Checkpoint 4
 Hello Wilder! You are almost at the end of your training and this is the last checkpoint! Cheer up!
 
-Objectifs
+# Objectifs
 
-•
-validate your ability to create a web application
+•validate your ability to create a web application
 
-•
-validate your developer skills
+•validate your developer skills
 
-•
-give your best
+•give your best
 
-•
-make the wildest circus ever
+•make the wildest circus ever
 
-•
-impress yourself with the progress you've made over the last 5 months.
+•impress yourself with the progress you've made over the last 5 months.
 
-Challenge ️🕹️
+# Challenge ️🕹️
 To validate this quest you must solve the challenge:: The first morning.. The challenge principle is detailed in the Challenge tab.
 
-Wild Circus
+# Wild Circus
 Some time ago, in order to become a Wilder, we asked you to create a simple static web page, the Wild Circus. At that time, you only knew some HTML, CSS and maybe a little bit of Javascript.
 
 
@@ -39,61 +34,48 @@ So, let's build a new Wild Circus experience with all these new skills that you�
 
 You are free to design this experience as you wish, and here are some ideas to inspire you. Please note that these are only examples, not required features. So let your imagination run wild!
 
-•
-an administration panel to add/edit circus acts
+•an administration panel to add/edit circus acts
 
-•
-a gallery of your fellow Wilders portrayed as circus artists
+•a gallery of your fellow Wilders portrayed as circus artists
 
-•
-a ticket booking system
+•a ticket booking system
 
-•
-wild circus shows around you geolocation system
+•wild circus shows around you geolocation system
 
-•
-awesome stuff from your imagination, you are your own product owner!
+•awesome stuff from your imagination, you are your own product owner!
 
-•
-If you are really motivated, and really confident in your skills, click here for an advanced feature.
+•If you are really motivated, and really confident in your skills, click here for an advanced feature.
 
 
 
 
 Be careful though, you're limited in time so be sure to plan accordingly. You must provide something functional by the end of the time limit.
 
-Requirements:
+# Requirements:
 
-•
-The site must be responsive
+•The site must be responsive
 
-•
-Data is stored in a database
+•Data is stored in a database
 
-•
-Follow best practices (tests are a big plus)
+•Follow best practices (tests are a big plus)
 
-•
-The project must be available on your personal Github account
+•The project must be available on your personal Github account
 
-•
-Do not forget your favorite acronyms: KISS, DRY and RTFM!
+•Do not forget your favorite acronyms: KISS, DRY and RTFM!
 
-Wait, don't code right away!!!
+# Wait, don't code right away!!!
 As with any project, a good start is crucial to success.
 
 You learned to code but you also learned to prepare. So, think before acting!
 
 The first morning, until noon, but no more than that, perform the following tasks and present them:
 
-•
-write user stories (about 3 or 5)
+•write user stories (about 3 or 5)
 
-•
-draw a wireframe (not too many pages)
+•draw a wireframe (not too many pages)
 
-•
-design the conceptual data model ([fr]MCD)
+•design the conceptual data model ([fr]MCD)
+
 
 All of the items above should be accessible in the resources folder in your repository
 
